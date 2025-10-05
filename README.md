@@ -19,3 +19,7 @@
 ## **Demo**
 
 Live Demo: [https://studybud-k6zr.onrender.com](https://studybud-k6zr.onrender.com)
+
+git clone https://github.com/swagatakar111/studybud.git
+cd studybud
+
