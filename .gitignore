@@ -7,7 +7,7 @@ env/
 venv/
 
 # Django
-db.sqlite3
+
 /staticfiles/
 *.log
 
